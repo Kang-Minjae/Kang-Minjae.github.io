@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Analyzation of international politics"
+title                    : "Analyzation of INTERNATIOANL POLITICS and POLITICAL PSYCHOLOGY"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "강민재"
-description              : "Research about Recent trend of international politics"
+description              : "Research about Recent trend of international politics and political psychology"
 url                      : "https://Kang-Minjae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Kang-Minjae/Kang-Minjae.github.io"
