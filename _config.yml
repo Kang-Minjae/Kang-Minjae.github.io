@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "강민재"
-  avatar           : "/assets/images/nclover.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/IMG_1095.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "High-schooler-international politics analyst"
   location         : "대한민국, 서울"
   email            : "minjae040717@naver.com"
